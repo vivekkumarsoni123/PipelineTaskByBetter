@@ -11,3 +11,48 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`App listening at http://localhost:${port}`);
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Challenges:
+// 1. Docker Hub Authentication (Access Token Issue)
+// 2. Node.js Version Mismatch
+// 3. Large Docker Image Size
+// 5. Kubernetes LoadBalancer on Local Machine
