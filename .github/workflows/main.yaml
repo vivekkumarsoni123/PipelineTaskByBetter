@@ -36,4 +36,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: viveksoni451/my-node-devops-app:latest
+        tags: viveksoni451/my-node-devops-newapp:latest
